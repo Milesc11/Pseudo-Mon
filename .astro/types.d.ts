@@ -158,6 +158,13 @@ declare module 'astro:content' {
   collection: "pages";
   data: any
 } & { render(): Render[".mdoc"] };
+"know-the-difference.mdoc": {
+	id: "know-the-difference.mdoc";
+  slug: "know-the-difference";
+  body: string;
+  collection: "pages";
+  data: any
+} & { render(): Render[".mdoc"] };
 "list-of-pseudo-legendaries.mdoc": {
 	id: "list-of-pseudo-legendaries.mdoc";
   slug: "list-of-pseudo-legendaries";
@@ -165,9 +172,9 @@ declare module 'astro:content' {
   collection: "pages";
   data: any
 } & { render(): Render[".mdoc"] };
-"styles.mdoc": {
-	id: "styles.mdoc";
-  slug: "styles";
+"relevance.mdoc": {
+	id: "relevance.mdoc";
+  slug: "relevance";
   body: string;
   collection: "pages";
   data: any

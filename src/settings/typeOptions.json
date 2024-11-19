@@ -15,7 +15,7 @@
   },
   "h1": {
     "fontFamily": "fontStack1",
-    "fontWeight": "700",
+    "fontWeight": "500",
     "fontStyle": "normal",
     "fontSize": "50px",
     "lineHeight": 1.5,

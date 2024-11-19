@@ -17,8 +17,8 @@
     "subItemIndent": "10px"
   },
   "colors": {
-    "backgroundColor": "#aa67ff87",
-    "menuHoverColor": "#a129d080",
+    "backgroundColor": "#b4c1ef66",
+    "menuHoverColor": "#92a5dd80",
     "dropdownColor": "#ffffffed",
     "dropdownHoverColor": "#cbcbcb80"
   },
